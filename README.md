@@ -1,5 +1,5 @@
 # chloerine.github.io
-# Hello World
+# Hello World, an assorted collection of projects
 
 #BIOE215 stuff:
 
