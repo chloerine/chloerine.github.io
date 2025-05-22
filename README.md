@@ -6,3 +6,6 @@
 #cse100 stuff:
 
 #Species Distribution model research stuff:
+
+#ArtG25 stuff
+https://chloerine.github.io/ARTG25_game.html
